@@ -1,3 +1,9 @@
 .summary {
     padding: 60px;
 }
+
+@media (max-width: 900px) {
+    .summary {
+        padding: 0;
+    }
+}

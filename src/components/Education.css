@@ -17,6 +17,12 @@
     text-align: left;
 }
 
+@media (max-width: 900px) {
+    .education {
+        padding: 0;
+    }
+}
+
 .duration {
     margin: 0;
     text-align: left;

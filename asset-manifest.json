@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.dca64bd5.css",
-    "main.js": "/static/js/main.5e66c0b1.js",
+    "main.css": "/static/css/main.4a046c34.css",
+    "main.js": "/static/js/main.9e90c42d.js",
     "static/media/bankofreact.png": "/static/media/bankofreact.292ba92d244ed1d0a6bf.png",
     "static/media/node.svg": "/static/media/node.3dc364b8e9beb3561620274aea4f0844.svg",
     "static/media/react.svg": "/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
@@ -13,11 +13,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.32e20978a96ff60c1fdc5a8389e532ba.svg",
     "static/media/css.svg": "/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
-    "main.dca64bd5.css.map": "/static/css/main.dca64bd5.css.map",
-    "main.5e66c0b1.js.map": "/static/js/main.5e66c0b1.js.map"
+    "main.4a046c34.css.map": "/static/css/main.4a046c34.css.map",
+    "main.9e90c42d.js.map": "/static/js/main.9e90c42d.js.map"
   },
   "entrypoints": [
-    "static/css/main.dca64bd5.css",
-    "static/js/main.5e66c0b1.js"
+    "static/css/main.4a046c34.css",
+    "static/js/main.9e90c42d.js"
   ]
 }

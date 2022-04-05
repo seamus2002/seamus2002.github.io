@@ -4,7 +4,7 @@ import bankOfReact from './logos/bankofreact.png';
 
 const ProjectCard = () => {
   return (
-    <div className="card bg-dark">
+    <div className="card bg-dark mx-auto">
         <img src={bankOfReact} className="card-img-top" alt='bank-of-react' />
         <div className="card-body text-start">
             <h5 className="card-title"><strong>Bank of React</strong></h5>

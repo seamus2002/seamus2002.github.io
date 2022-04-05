@@ -10,3 +10,13 @@
     display: inline;
     vertical-align: middle;
 }
+
+@media (max-width: 900px) {
+    #home {
+        padding: 0;
+    }
+
+    .intro {
+        text-align: center;
+    }
+}

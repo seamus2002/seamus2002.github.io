@@ -16,7 +16,7 @@ const Summary = () => {
         <br />
         <br />
 
-        <p></p>
+        <p>As a software developer, my goal is to come up with ways to use the latest and greatest technologies. I always strive to create things that are practical and useful, and I work hard every day to come up with new ways to improve and create the future.</p>
 
     </div>
   );

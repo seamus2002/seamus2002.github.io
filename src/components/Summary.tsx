@@ -11,7 +11,7 @@ const Summary = () => {
         <br />
         <br />
 
-        <p></p>
+        <p>Every day, I spend hours learning how to become a better developer. Programming is something I am very passionate about because of the unlimited possibilities of applications that can be created. In addition, it seems every few weeks a new form of technology comes out that changes the way programs could be made, meaning I can strengthen my skills even further.</p>
 
         <br />
         <br />

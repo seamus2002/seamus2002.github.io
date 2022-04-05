@@ -11,3 +11,9 @@
     height: 90px;
 }
 
+@media (max-width: 900px) {
+    .skills {
+        padding: 0;
+        text-align: center;
+    }
+}

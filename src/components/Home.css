@@ -1,6 +1,12 @@
 #home {
     background-color: #20212A;
     min-height: 100vh;
-    height: fit-content;
-    padding: 50px;
+    display: flex;
+    align-items: center;
+    padding: 120px;
+}
+
+.intro {
+    display: inline;
+    vertical-align: middle;
 }

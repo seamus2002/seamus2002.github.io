@@ -6,7 +6,7 @@ const Home = () => {
   return (
     <section id='home'>
       	<div className='intro'>
-		  	<h1>Hi, I'm Seamus.</h1>
+		  	  <h1>Hi, I'm Seamus.</h1>
       		<h1>I am a <span className='rainbow'>software engineer</span>.</h1>
       	</div>
     </section>

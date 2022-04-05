@@ -5,7 +5,7 @@ import './rainbowText.css';
 const Home = () => {
   return (
     <section id='home'>
-      	<div className='intro'>
+      	<div className='container intro'>
 		  	  <h1><strong>Hi, I'm Seamus.</strong></h1>
       		<h1><strong>I am a <span className='rainbow'>software engineer</span>.</strong></h1>
       	</div>

@@ -1,0 +1,23 @@
+.education {
+    padding: 60px;
+}
+
+.college-logo {
+    height: 90px;
+    width: 90px;
+}
+
+.institution {
+    margin: 0;
+    text-align: left;
+}
+
+.degree {
+    margin: 0;
+    text-align: left;
+}
+
+.duration {
+    margin: 0;
+    text-align: left;
+}

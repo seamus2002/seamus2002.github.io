@@ -5,7 +5,7 @@ import HunterLogo from "../hunterlogo.jpg";
 const Education = () => {
 	return (
 		<div className='container education'>
-		<h1><strong>EDUCATION</strong></h1>
+		<h1 className='header'><strong>EDUCATION</strong></h1>
 		<br />
 			<div className='row'>
 				<div className='col-lg-1'>

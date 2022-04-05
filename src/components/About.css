@@ -2,3 +2,9 @@
     background-color: #2B2C38;
     padding: 60px 10px;
 }
+
+@media (max-width: 900px) {
+    #about {
+        padding: 0;
+    }
+}

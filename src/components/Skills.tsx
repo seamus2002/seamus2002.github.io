@@ -17,7 +17,7 @@ import SkillCard from './SkillCard';
 const Skills = () => {
   return (
     <div className='container skills'>
-        <h1><strong>MY <span className='rainbow'>SKILLS</span></strong></h1>
+        <h1 className='header'><strong>MY <span className='rainbow'>SKILLS</span></strong></h1>
         <br />
         <br />
         <div className='row'>

@@ -7,7 +7,7 @@ const Contact = () => {
   return (
     <section id='contact'>
 		<div className="container">
-		<h1 className='contact-header'><strong>CONTACT ME</strong></h1>
+		<h1 className='header'><strong>CONTACT ME</strong></h1>
 		<br />
 		<p>Don't hesitate to contact me by email or using any of my social media links below. I could be in the market for a new role or new opportunities!</p>
 		<br />

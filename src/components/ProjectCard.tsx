@@ -13,6 +13,12 @@ const ProjectCard = () => {
             <span className="badge bg-info text-dark">APIs</span>
             <span className="badge bg-info text-dark">JavaScript</span>
         </div>
+        <div className="card-footer">
+			<div className="btn-group">
+				<a href="https://seamus2002.github.io/bank-of-react" target="_blank" rel="noopener noreferrer" className="btn btn-primary">Live Version</a>
+				<a href="https://github.com/seamus2002/bank-of-react" target="_blank" rel="noopener noreferrer" className="btn btn-light">GitHub Repo</a>
+			</div>
+        </div>
     </div>
   );
 }

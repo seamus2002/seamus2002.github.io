@@ -17,7 +17,7 @@ const Contact = () => {
 				<div className='col'>
 					<img src={linkedinLogo} alt='linkedin' className='contact-logo' />
 					<br />
-					<a href='https://www.linkedin.com/in/seamus-english-804b121b0/' target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-primary logo-button">LinkedIn</button></a>
+					<a href='https://www.linkedin.com/in/seamusenglish/' target="_blank" rel="noopener noreferrer"><button type="button" className="btn btn-primary logo-button">LinkedIn</button></a>
 				</div>
 				<div className='col'>
 					<img src={githubLogo} alt='github' className='contact-logo' />

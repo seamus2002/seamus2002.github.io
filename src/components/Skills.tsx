@@ -6,6 +6,7 @@ import jsLogo from './logos/javascript.svg';
 import tsLogo from './logos/typescript.svg';
 import bootstrapLogo from './logos/bootstrap.svg';
 import reactLogo from './logos/react.svg';
+import reduxLogo from './logos/redux.svg'
 import nodeLogo from './logos/node.svg';
 import postgresLogo from './logos/postgres.svg';
 import mongodbLogo from './logos/mongodb.svg';
@@ -49,6 +50,12 @@ const Skills = () => {
                 <SkillCard 
                     logo={reactLogo}
                     skill='React'
+                />
+            </div>
+            <div className='col'>
+                <SkillCard 
+                    logo={reduxLogo}
+                    skill='Redux'
                 />
             </div>
             <div className='col'>

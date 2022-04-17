@@ -5,3 +5,9 @@
 .badge {
     margin-right: 10px;
 }
+
+@media (max-width: 900px) {
+    .card {
+        margin-bottom: 40px;
+    }
+}

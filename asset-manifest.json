@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.2c2c2c4e.css",
-    "main.js": "/static/js/main.39bbc92b.js",
+    "main.js": "/static/js/main.ac7ee237.js",
+    "static/media/mathdepartment.png": "/static/media/mathdepartment.bf4f24b26683bdc02201.png",
     "static/media/logo.png": "/static/media/logo.0f36c98746fdf6a19e3a.png",
     "static/media/pokemonsearch.png": "/static/media/pokemonsearch.fa8479c4e52c7151ef8b.png",
     "static/media/bankofreact.png": "/static/media/bankofreact.292ba92d244ed1d0a6bf.png",
@@ -17,10 +18,10 @@
     "static/media/css.svg": "/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
     "static/media/html.svg": "/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
     "main.2c2c2c4e.css.map": "/static/css/main.2c2c2c4e.css.map",
-    "main.39bbc92b.js.map": "/static/js/main.39bbc92b.js.map"
+    "main.ac7ee237.js.map": "/static/js/main.ac7ee237.js.map"
   },
   "entrypoints": [
     "static/css/main.2c2c2c4e.css",
-    "static/js/main.39bbc92b.js"
+    "static/js/main.ac7ee237.js"
   ]
 }

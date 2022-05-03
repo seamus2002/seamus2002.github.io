@@ -13,6 +13,9 @@ const Projects = () => {
 				</div>
 				<div className="col-lg-6">
 					<h3 className="fw-bold lh-1 mb-3">{ project.name }</h3>
+					{project.skills.map((skill: any) => <span className="badge bg-info text-dark">{skill}</span>)}
+					<br />
+					<br />
 					<p className="lead">{ project.description }</p>
 					<div className="d-grid gap-2 d-md-flex justify-content-md-start">
 					<a href={ project.liveLink } target="_blank" rel="noopener noreferrer" className="btn btn-primary">Live Version</a>

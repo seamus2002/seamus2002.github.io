@@ -1,12 +1,22 @@
+import mathDepartmentLogo from '../components/logos/mathdepartment.png';
 import bankOfReactLogo from '../components/logos/bankofreact.png';
 import pokemonSearchLogo from '../components/logos/pokemonsearch.png';
 
 const projects = [
     {
+        id: 'mathdept',
+        name: 'Hunter College Math Department',
+        logo: mathDepartmentLogo,
+        description: 'A basic banking user interface that uses an API to display sample debits and credits. Also has a customize feature to change text and background.',
+        skills: ['React', 'TypeScript', 'React-Router'],
+        liveLink: 'https://seamus2002.github.io/math-department',
+        repoLink: 'https://github.com/seamus2002/math-department'
+    },
+    {
         id: 'bankofreact',
         name: 'Bank of React',
         logo: bankOfReactLogo,
-        description: 'A basic banking user interface that uses an API to display sample debits and credits. Also has a customize feature to change text and background.',
+        description: 'A better looking website for the Hunter Mathematics and Statistics Department.',
         skills: ['React', 'APIs', 'JavaScript'],
         liveLink: 'https://seamus2002.github.io/bank-of-react',
         repoLink: 'https://github.com/seamus2002/bank-of-react'

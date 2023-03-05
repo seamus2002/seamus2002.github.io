@@ -1,5 +1,7 @@
 nav {
-    background-color: #000006;
+    background-color: #000012;
+    opacity: 0.9;
+    filter: (opacity=90);
 }
 
 .active {

@@ -1,3 +1,13 @@
 #about {
     height: 200px;
 }
+
+.about-icon {
+    width: 100%;
+}
+
+@media (min-width: 992px) {
+    .about-icon {
+        width: 50%;
+    }
+}

@@ -1,6 +1,8 @@
+import { useState } from "react";
 import "./Navbar.css";
 
 const Navbar = () => {
+    const [navBg, setNavBg] = useState(false);
     return (
         <nav
             className="navbar navbar-expand-lg sticky-top"

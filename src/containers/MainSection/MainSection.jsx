@@ -4,8 +4,8 @@ import "./MainSection.css";
 
 const MainSection = () => {
     return (
-        <section className="container">
-            <div className="row flex-lg-row-reverse align-items-center py-9">
+        <section className="container py-5">
+            <div className="row flex-lg-row-reverse align-items-center">
                 <div className="homeMainIcon col-10 col-sm-8 col-lg-6">
                     <Laptop />
                 </div>

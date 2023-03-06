@@ -1,5 +1,6 @@
 import { useState } from "react";
 import "./App.css";
+import Footer from "./components/Footer/Footer";
 import Navbar from "./components/Navbar/Navbar";
 import ParticlesBackground from "./components/ParticlesBackground/ParticlesBackground";
 import AboutSection from "./containers/AboutSection/AboutSection";
@@ -16,6 +17,7 @@ function App() {
             <AboutSection />
             <ProjectsSection />
             <ContactSection />
+            <Footer />
         </div>
     );
 }

@@ -37,7 +37,10 @@ const ContactForm = () => {
                         placeholder="Message"
                     ></textarea>
                 </div>
-                <button type="button" class="btn btn-outline-secondary">
+                <button
+                    type="button"
+                    class="btn btn-outline-secondary disabled"
+                >
                     Currently Unavailable
                 </button>
                 {/* <button type="submit" className="btn btn-primary">

@@ -7,27 +7,16 @@ const Footer = () => {
                 </div>
 
                 <ul className="nav col-md-4 justify-content-end list-unstyled d-flex">
-                    {/* <li className="ms-3">
-                        <a className="text-muted" href="#">
-                            <svg className="bi" width="24" height="24">
-                                <use xlink:href="#twitter"></use>
-                            </svg>
+                    <li className="ms-3">
+                        <a href="https://github.com/seamus2002">
+                            <i className="bi bi-github"></i>
                         </a>
                     </li>
                     <li className="ms-3">
-                        <a className="text-muted" href="#">
-                            <svg className="bi" width="24" height="24">
-                                <use xlink:href="#instagram"></use>
-                            </svg>
+                        <a href="https://www.linkedin.com/in/seamusenglish/">
+                            <i class="bi bi-linkedin"></i>
                         </a>
                     </li>
-                    <li className="ms-3">
-                        <a className="text-muted" href="#">
-                            <svg className="bi" width="24" height="24">
-                                <use xlink:href="#facebook"></use>
-                            </svg>
-                        </a>
-                    </li> */}
                 </ul>
             </footer>
         </div>

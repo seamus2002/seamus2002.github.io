@@ -1,3 +1,9 @@
-#contact {
-    height: 200px;
+.letter-icon {
+    width: 100%;
+}
+
+@media (min-width: 992px) {
+    .letter-icon {
+        width: 50%;
+    }
 }

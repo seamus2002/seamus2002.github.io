@@ -5,7 +5,7 @@ import iss from "../../assets/iss.jpeg";
 const ProjectsSection = () => {
     return (
         <section id="projects">
-            <div className="container py-5">
+            <div className="container">
                 <h2 className="title text-center">My Projects</h2>
                 <Project
                     name="International Space Station Tracker"

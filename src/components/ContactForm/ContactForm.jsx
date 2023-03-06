@@ -37,9 +37,12 @@ const ContactForm = () => {
                         placeholder="Message"
                     ></textarea>
                 </div>
-                <button type="submit" className="btn btn-primary">
-                    Submit
+                <button type="button" class="btn btn-outline-secondary">
+                    Currently Unavailable
                 </button>
+                {/* <button type="submit" className="btn btn-primary">
+                    Submit
+                </button> */}
             </form>
         </>
     );

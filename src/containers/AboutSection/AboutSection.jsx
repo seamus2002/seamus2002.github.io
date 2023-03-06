@@ -4,8 +4,8 @@ import "./AboutSection.css";
 const AboutSection = () => {
     return (
         <section id="about">
-            <div className="container py-5">
-                <div className="row flex-lg-row align-items-center py-5">
+            <div className="container">
+                <div className="row flex-lg-row align-items-center">
                     <div className="about-icon col-10 col-sm-8 col-lg-6">
                         <Person />
                     </div>

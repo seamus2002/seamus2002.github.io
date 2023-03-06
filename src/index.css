@@ -78,6 +78,10 @@ fieldset {
     margin: 0;
 }
 
+section {
+    padding-bottom: 10rem;
+}
+
 .overflow-hidden {
     overflow: hidden;
 }

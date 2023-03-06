@@ -4,7 +4,7 @@ import "./MainSection.css";
 
 const MainSection = () => {
     return (
-        <section className="container py-5">
+        <section className="container min-vh-100 main-section">
             <div className="row flex-lg-row-reverse align-items-center">
                 <div className="homeMainIcon col-10 col-sm-8 col-lg-6">
                     <Laptop />

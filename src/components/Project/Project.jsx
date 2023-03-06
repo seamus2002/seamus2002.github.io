@@ -7,10 +7,10 @@ const Project = (props) => {
             <div class="col-10 col-sm-8 col-lg-6">
                 <img
                     src={props.icon}
-                    class="d-block mx-lg-auto img-fluid"
-                    alt="Bootstrap Themes"
-                    width="700"
-                    height="500"
+                    class="d-block mx-lg-auto img-fluid project-img"
+                    alt={props.name}
+                    width="1182"
+                    height="634"
                     loading="lazy"
                 />
             </div>

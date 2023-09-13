@@ -17,7 +17,7 @@ const ProjectsSection = () => {
                     project uses React Router to be able to seemlessly switch between 
                     pages."
                     icon={littlelemon}
-                    liveLink="https://seamusenglish.com/mlittle-lemon/"
+                    liveLink="https://seamusenglish.com/little-lemon/"
                     sourceLink="https://github.com/seamus2002/little-lemon"
                 />
                 <Project

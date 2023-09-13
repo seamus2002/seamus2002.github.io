@@ -1,5 +1,6 @@
 import Project from "../../components/Project/Project";
 import "./ProjectsSection.css";
+import littlelemon from "../../assets/littlelemon.jpeg";
 import menu from "../../assets/menu.jpeg";
 import iss from "../../assets/iss.jpeg";
 
@@ -9,7 +10,18 @@ const ProjectsSection = () => {
             <div className="container">
                 <h2 className="title text-center">My Projects</h2>
                 <Project
-                    name="Meun Mate"
+                    name="Little Lemon"
+                    desc="This is a project I created to understand UX/UI design better. 
+                    It is a website for a restaurant that allows users to see the specials 
+                    and create reservation through through a form. In addition, this 
+                    project uses React Router to be able to seemlessly switch between 
+                    pages."
+                    icon={littlelemon}
+                    liveLink="https://seamusenglish.com/menu-mate/"
+                    sourceLink="https://github.com/seamus2002/menu-mate"
+                />
+                <Project
+                    name="Menu Mate"
                     desc="This is a project I created with the Spoonacular API. 
                     It allows the user to search for different types of recipes. 
                     Once a recipe has been selected, users can view detailed 

@@ -56,7 +56,7 @@ In order to be iterable, non-array objects must have a [Symbol.iterator]() metho
                     It is a website for a restaurant that allows users to see the specials \r
                     and create reservation through through a form. In addition, this \r
                     project uses React Router to be able to seemlessly switch between \r
-                    pages.`,icon:littlelemon,liveLink:"https://seamusenglish.com/menu-mate/",sourceLink:"https://github.com/seamus2002/menu-mate"}),jsxRuntimeExports.jsx(Project,{name:"Menu Mate",desc:`This is a project I created with the Spoonacular API. \r
+                    pages.`,icon:littlelemon,liveLink:"https://seamusenglish.com/mlittle-lemon/",sourceLink:"https://github.com/seamus2002/little-lemon"}),jsxRuntimeExports.jsx(Project,{name:"Menu Mate",desc:`This is a project I created with the Spoonacular API. \r
                     It allows the user to search for different types of recipes. \r
                     Once a recipe has been selected, users can view detailed \r
                     information about the recipe, including its ingredients, \r

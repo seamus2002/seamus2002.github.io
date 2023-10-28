@@ -18,12 +18,12 @@ const AboutSection = () => {
               that with hard work and dedication, anything is possible.
             </p>
             <p className=" lead py-2">
-              My journey into data science began with a spark of interest during
-              my time as a web developer. While working on various web projects,
-              I couldn't help but notice the significance of data-driven
-              decisions in optimizing user experiences. The world of analytics
-              and data-driven insights opened up a new dimension of
-              understanding user behavior and system performance.
+              My fascination with data science can be traced back to my academic
+              journey. I pursued a degree in Computer Science and was initially
+              drawn to this field during a big data course. I was intrigued by
+              the power of making sense of complex data and the potential it
+              held for solving real-world problems. I soon realized that this
+              was the beginning of a lifelong journey for me.
             </p>
             <p className="lead py-2">
               In the next five years, my vision is to deepen my expertise in the

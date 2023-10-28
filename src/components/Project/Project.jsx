@@ -1,5 +1,6 @@
 import LiveButton from "../AnimatedButton/LiveButton";
 import SourceButton from "../AnimatedButton/SourceButton";
+import "./Project.css";
 
 const Project = ({ icon, name, desc, liveLink, sourceLink }) => {
   return (

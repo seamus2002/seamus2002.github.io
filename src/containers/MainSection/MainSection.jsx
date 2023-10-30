@@ -18,7 +18,7 @@ const MainSection = () => {
             <AppTypewriter
               strings={[
                 "Data Scientist",
-                "Web Developer",
+                "Data Analyst",
                 "Continuously Learning",
               ]}
               wrapperClassName="typewriterWrapper"

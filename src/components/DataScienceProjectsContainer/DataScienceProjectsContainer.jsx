@@ -1,12 +1,28 @@
 import Project from "../Project/Project";
 import hetionet from "../../assets/hetionet.jpeg";
+import ml_cancer_diagnosis from "../../assets/ml_cancer_diagnosis.png";
 
 const DataScienceProjectsContainer = () => {
   return (
     <>
       <Project
+        name="Cancer Diagnosis using Machine Learning"
+        desc="
+        This project focuses on leveraging machine learning algorithms for the diagnosis of cancer. 
+        The primary problem addressed is the accurate classification of cancer cases using a dataset 
+        that includes various medical features. Two classification algorithms, Random Forest and 
+        Logistic Regression, were selected to build predictive models for cancer diagnosis. 
+        The dataset underwent preprocessing steps, including the conversion of the target variable 
+        to numeric form and the assembly of feature vectors. The models were trained on a portion of 
+        the dataset, and their performance was evaluated on a separate test set. Results indicate 
+        that both Random Forest and Logistic Regression achieved promising results in terms of 
+        AUC, F1 Score, Precision, and Recall."
+        icon={ml_cancer_diagnosis}
+        sourceLink="https://github.com/seamus2002/cancer-diagnosis-using-ml/"
+      />
+      <Project
         name="HetioNet"
-        desc="HetioNet is a colaboration that contains comprehensive database systems for modeling 
+        desc="HetioNet is a data engineering colaboration that contains comprehensive database systems for modeling 
                 complex biological relationships. This database is designed to provide quick responses 
                 to critical queries related to diseases, genes, drugs, and their interactions. 
                 Specifically, given a disease ID, it can provide the name, drugs that can treat or 

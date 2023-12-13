@@ -1,10 +1,23 @@
 import Project from "../Project/Project";
 import hetionet from "../../assets/hetionet.jpeg";
 import ml_cancer_diagnosis from "../../assets/ml_cancer_diagnosis.png";
+import nyc_assistance from "../../assets/nyc_assistance.png";
 
 const DataScienceProjectsContainer = () => {
   return (
     <>
+      <Project
+        name="NYC Public Assistance Analysis"
+        desc='
+        This is a case study I created to gain insights into the distribution of individuals and 
+        households receiving government assistance programs such as Supplemental Nutrition 
+        Assistance Program (SNAP), Cash Assistance (CA), and Medicaid Benefits (MA) across 
+        different boroughs and community districts in New York City. The primary data source is 
+        the "Borough/Community District Report" from NYC OpenData. The dataset has 1239 rows, 9 
+        columns, and each row is a distinct count of various metrics.'
+        icon={nyc_assistance}
+        sourceLink="https://www.kaggle.com/code/seamusenglish/nyc-public-assistance-analysis/notebook"
+      />
       <Project
         name="Cancer Diagnosis using Machine Learning"
         desc="

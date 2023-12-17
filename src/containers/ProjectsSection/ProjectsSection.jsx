@@ -24,7 +24,7 @@ const ProjectsSection = () => {
               }`}
               onClick={() => handleContainerChange("dataScience")}
             >
-              Data Science
+              Data Analytics
             </button>
             <button
               type="button"

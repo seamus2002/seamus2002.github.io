@@ -2,10 +2,24 @@ import Project from "../Project/Project";
 import hetionet from "../../assets/hetionet.jpeg";
 import ml_cancer_diagnosis from "../../assets/ml_cancer_diagnosis.png";
 import nyc_assistance from "../../assets/nyc_assistance.png";
+import hulu from "../../assets/hulu.png";
 
 const DataScienceProjectsContainer = () => {
   return (
     <>
+      <Project
+        name="Maximizing Hulu Marketing with Ratings Insights"
+        desc="
+        In this data analytics project, I delved into Hulu's vast viewership data to identify 
+        top-performing television shows and discern prevalent genre trends. By leveraging these 
+        ratings insights, I developed strategic recommendations to optimize Hulu's marketing 
+        approach. This project aimed to align marketing strategies with viewer preferences, 
+        utilizing data-driven tactics to enhance the platform's overall content promotion 
+        and audience engagement.
+        "
+        icon={hulu}
+        sourceLink="https://www.kaggle.com/code/seamusenglish/maximizing-hulu-marketing-with-ratings-insights"
+      />
       <Project
         name="NYC Public Assistance Analysis"
         desc='

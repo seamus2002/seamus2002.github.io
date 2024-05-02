@@ -14,7 +14,7 @@ const Footer = () => {
                     </li>
                     <li className="ms-3">
                         <a href="https://www.linkedin.com/in/seamusenglish/">
-                            <i class="bi bi-linkedin"></i>
+                            <i className="bi bi-linkedin"></i>
                         </a>
                     </li>
                 </ul>

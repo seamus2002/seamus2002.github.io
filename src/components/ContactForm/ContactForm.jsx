@@ -39,7 +39,7 @@ const ContactForm = () => {
                 </div>
                 <button
                     type="button"
-                    class="btn btn-outline-secondary disabled"
+                    className="btn btn-outline-secondary disabled"
                 >
                     Currently Unavailable
                 </button>

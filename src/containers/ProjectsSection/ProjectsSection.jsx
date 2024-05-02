@@ -15,7 +15,7 @@ const ProjectsSection = () => {
       <div className="container">
         <h2 className="title text-center">My Projects</h2>
         <br />
-        <div className="text-center">
+        {/* <div className="text-center">
           <div className="btn-group" role="group" aria-label="Project Switcher">
             <button
               type="button"
@@ -36,7 +36,7 @@ const ProjectsSection = () => {
               Web Development
             </button>
           </div>
-        </div>
+        </div> */}
         {activeContainer === "dataScience" ? (
           <DataScienceProjectsContainer />
         ) : null}

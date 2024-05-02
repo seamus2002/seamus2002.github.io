@@ -11,8 +11,9 @@ const ContactSection = () => {
                     <div className=" col-10 col-sm-8 col-lg-6 letter-icon">
                         <Letter />
                     </div>
-                    <div className="col-lg-6">
-                        <ContactForm />
+                    <div className="col-lg-6 text-center">
+                        <a className="btn btn-primary btn-lg mx-1" href="https://www.linkedin.com/in/seamusenglish/" role="button">LinkedIn <i className="bi bi-linkedin" /></a>
+                        <a className="btn btn-secondary btn-lg mx-1" href="https://github.com/seamus2002" role="button">GitHub <i className="bi bi-github" /></a>
                     </div>
                 </div>
             </div>

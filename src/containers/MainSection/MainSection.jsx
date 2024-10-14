@@ -17,8 +17,8 @@ const MainSection = () => {
           <div style={{ paddingTop: 50 }}>
             <AppTypewriter
               strings={[
-                "Data Analyst",
-                "Data Scientist",
+                "Programmatic Commerce Associate",
+                "M.S. in Business Analytics Candidate",
                 "Continuously Learning",
               ]}
               wrapperClassName="typewriterWrapper"

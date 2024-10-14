@@ -12,18 +12,18 @@ const AboutSection = () => {
           <div className="col-lg-6">
             <h2 className="title py-3">A little about myself</h2>
             <p className="lead py-2">
-              Hello! I'm Seamus, and I'm thrilled to share my journey into the
-              exciting world of data science and my aspirations for the future.
-              I am committed to learning and growing every day, and I believe
-              that with hard work and dedication, anything is possible.
+              Hello! I'm Seamus! I am a dedicated Programmatic Commerce Associate at 
+              OpenMind (GroupM/WPP) and a M.S. in Business Analytics candidate at 
+              Baruch College. I also have a B.A. in Computer Science from Hunter 
+              College.
             </p>
             <p className=" lead py-2">
-              My fascination with data science can be traced back to my academic
-              journey. I pursued a degree in Computer Science and was initially
-              drawn to this field during a big data course. I was intrigued by
-              the power of making sense of complex data and the potential it
-              held for solving real-world problems. I soon realized that this
-              was the beginning of a lifelong journey for me.
+              With a strong foundation in computer science and programmatic 
+              advertising, I thrive in collaborative environments where I 
+              can leverage my analytical skills to drive impactful insights 
+              and strategic decisions. My previous experiences include 
+              internships at Choreograph and LendKey Technologies, where 
+              I honed my skills in data analysis and Python.
             </p>
             <p className="lead py-2">
               In the next five years, my vision is to deepen my expertise in the
